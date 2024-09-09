@@ -15,34 +15,8 @@ Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
 <br/>
-<img src=This is a uservice project from Turing Research Team.
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
-## Getting Started
+<img src="https://raw.githubusercontent.com/ghfatimaa/uweather/main/public/uweather.webp" />
 
-First, run the development server:
-
-```bash
-npm run dev -- -p 2000
-# or
-yarn dev -p 2000
-```
-
-Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the result.
-
-You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
-<br/>
-<br/>
-<img src="https://github.com/ArminKardan/utrialv2/blob/master/screen.webp?raw=true" />
-<br/>
-Best regards.
-<br/>
-
-<br/>
-<br/>
- />
-<br/>
-Best regards.
-<br/>
 
 <br/>
 <br/>
